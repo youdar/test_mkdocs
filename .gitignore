@@ -1,0 +1,109 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Credencials
+instance/setting*
+
+# Secrets location
+.secrets/
+secrets/
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+# build/
+develop-eggs/
+.ipynb_checkpoints/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+# docs/_build/
+
+# PyBuilder
+target/
+
+# Other files and folders
+tmp/
+secret/
+secrets/
+config/
+*.swp
+.DS*
+.bundle
+.chef
+.directory
+.envrc
+.gitlab_shell_secret
+.secret
+.rc_secret*
+.vagrant
+.idea
+.idea/
+Makefile
+"_build/"
+_build/
+build/
+conf.py
+index.rst
+make.bat
+
+# google drive files
+Icon
+Icon?
+Icon/*
+Icon\r
+Icon\r\r
+./Icon
+./Icon?
+./Icon\r
+./Icon\r\r
+"Icon"
+"Icon?"
+"Icon/*"
+"Icon\r"
+"Icon\r\r"
+"./Icon\r"
+"./Icon\r\r"
