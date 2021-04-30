@@ -1,1 +1,17 @@
 site_name: My Docs
+
+theme:
+  name: "material"
+  palette:
+    primery: purple
+    accent: teal
+  features:
+    - navigation.indexes
+
+plugins:
+  - search
+  - mkdocstrings
+
+markdown_extensions:
+  - admonition
+
