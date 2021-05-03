@@ -11,7 +11,8 @@ To view this site use `https://youdar.github.io/test_mkdocs.io/`
 * `mkdocs -h` - Print help message and exit.
 
 * `mkdocs gh-deploy` - push to GitHub
-  It takes a little time after deploying for the live pages to show the new changes
+  It takes a little time after deploying for the live pages to show the new changes.  
+  You need to run this after everytime chandes to the documentations are made  
 
 ## Project layout
 
