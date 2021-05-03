@@ -1,6 +1,7 @@
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+To view this site use `https://youdar.github.io/test_mkdocs.io/`
 
 ## Commands
 
@@ -8,6 +9,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
+
+* `mkdocs gh-deploy` - push to github
 
 ## Project layout
 
